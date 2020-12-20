@@ -1,1 +1,2 @@
- text dosyai under ekip
+ text dosyai under eki
+tet 3p
